@@ -1,4 +1,4 @@
 # Timepass
-Its jsut for fun
+Its just for fun
 No coding
 only dhamaal
